@@ -3,7 +3,7 @@
 ## Approach 
 > I started by running the java file on the terminal
 
-![java](/rev/vault-door-training/vault/run.png)
+![java](/Rev/vault-door-training/vault/run.png)
 
 >to see what was happening i opened the code in vs code and thats where i got the flag
 
