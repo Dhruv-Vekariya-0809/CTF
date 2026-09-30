@@ -12,7 +12,7 @@ i didnt know why was it reading chinese characters to so i googled it and found 
 
 > i searched for a command to read the UTF-8 file as UTF-16 file and found one <mark>iconv</mark>.But when i tried it it didnt gave the accurate flag.I dont know the reason.
 
-![iconv](/Rev/Traformation/transformation/iconv.png)
+![iconv](/Rev/Trnaformation/transformation/iconv.png)
 
 >so then i just searched on google for a converter which gave me hex which i convertd to readable text which was the flag.
 
